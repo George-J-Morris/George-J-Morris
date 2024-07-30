@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 Language Experience Tierlist:
--A | Python
--B | Go, HTML/CSS
--C | JS (🤮)
+- A | Python
+- B | Go, HTML/CSS
+- C | JS (🤮)
 
 <!--
 **George-J-Morris/George-J-Morris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
